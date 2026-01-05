@@ -8,10 +8,10 @@ This is the official implementation of the paper **"Towards Out-of-Distribution 
 The code is implemented based on **PyTorch** and **PyTorch Geometric (PyG)**. 
 This repo is also depended on `GOOD` and `DrugOOD`, please follow the installation methods provided for each package:
 
-* GOOD (Version 1.1.1)
+* GOOD 
   * Repository: https://github.com/divelab/GOOD/
   * Installation: Please follow the instructions provided in the repository to install.
-* DrugOOD (Version 0.0.1)
+* DrugOOD
   * Repository: https://github.com/tencent-ailab/DrugOOD
   * Installation: Please follow the instructions provided in the repository to install. 
 
